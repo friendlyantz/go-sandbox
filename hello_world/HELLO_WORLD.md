@@ -5,7 +5,7 @@ go mod init example/hello
 ```go
 package main
 
-import "fmt" // double quotes are important
+import "fmt"
 
 func main() {
     fmt.Println("Hello, World!")
